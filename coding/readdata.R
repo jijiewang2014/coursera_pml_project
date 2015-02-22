@@ -1,0 +1,1 @@
+mydata<-read.csv("data/pml-training.csv")
